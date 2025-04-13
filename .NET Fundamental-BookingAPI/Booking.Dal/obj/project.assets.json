@@ -4744,11 +4744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\Booking\\Booking.Dal\\Booking.Dal.csproj",
+      "projectUniqueName": "E:\\CSharp\\.NET\\.NET Fundamental-BookingAPI\\Booking.Dal\\Booking.Dal.csproj",
       "projectName": "Booking.Dal",
-      "projectPath": "E:\\C#\\Booking\\Booking.Dal\\Booking.Dal.csproj",
+      "projectPath": "E:\\CSharp\\.NET\\.NET Fundamental-BookingAPI\\Booking.Dal\\Booking.Dal.csproj",
       "packagesPath": "C:\\Users\\ravin\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\Booking\\Booking.Dal\\obj\\",
+      "outputPath": "E:\\CSharp\\.NET\\.NET Fundamental-BookingAPI\\Booking.Dal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4770,8 +4770,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\C#\\Booking\\Booking.Domain\\Booking.Domain.csproj": {
-              "projectPath": "E:\\C#\\Booking\\Booking.Domain\\Booking.Domain.csproj"
+            "E:\\CSharp\\.NET\\.NET Fundamental-BookingAPI\\Booking.Domain\\Booking.Domain.csproj": {
+              "projectPath": "E:\\CSharp\\.NET\\.NET Fundamental-BookingAPI\\Booking.Domain\\Booking.Domain.csproj"
             }
           }
         }
