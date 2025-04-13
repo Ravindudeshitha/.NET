@@ -1,0 +1,17 @@
+E:\C#\Booking\Booking.Dal\bin\Debug\net8.0\Booking.Dal.deps.json
+E:\C#\Booking\Booking.Dal\bin\Debug\net8.0\Booking.Dal.runtimeconfig.json
+E:\C#\Booking\Booking.Dal\bin\Debug\net8.0\Booking.Dal.dll
+E:\C#\Booking\Booking.Dal\bin\Debug\net8.0\Booking.Dal.pdb
+E:\C#\Booking\Booking.Dal\bin\Debug\net8.0\Booking.Domain.dll
+E:\C#\Booking\Booking.Dal\bin\Debug\net8.0\Booking.Domain.pdb
+E:\C#\Booking\Booking.Dal\obj\Debug\net8.0\Booking.Dal.csproj.AssemblyReference.cache
+E:\C#\Booking\Booking.Dal\obj\Debug\net8.0\Booking.Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Booking\Booking.Dal\obj\Debug\net8.0\Booking.Dal.AssemblyInfoInputs.cache
+E:\C#\Booking\Booking.Dal\obj\Debug\net8.0\Booking.Dal.AssemblyInfo.cs
+E:\C#\Booking\Booking.Dal\obj\Debug\net8.0\Booking.Dal.csproj.CoreCompileInputs.cache
+E:\C#\Booking\Booking.Dal\obj\Debug\net8.0\Booking..70DF0B6D.Up2Date
+E:\C#\Booking\Booking.Dal\obj\Debug\net8.0\Booking.Dal.dll
+E:\C#\Booking\Booking.Dal\obj\Debug\net8.0\refint\Booking.Dal.dll
+E:\C#\Booking\Booking.Dal\obj\Debug\net8.0\Booking.Dal.pdb
+E:\C#\Booking\Booking.Dal\obj\Debug\net8.0\Booking.Dal.genruntimeconfig.cache
+E:\C#\Booking\Booking.Dal\obj\Debug\net8.0\ref\Booking.Dal.dll

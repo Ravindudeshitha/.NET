@@ -1,0 +1,11 @@
+E:\C#\Booking\Booking.Service\bin\Debug\net8.0\Booking.Service.deps.json
+E:\C#\Booking\Booking.Service\bin\Debug\net8.0\Booking.Service.dll
+E:\C#\Booking\Booking.Service\bin\Debug\net8.0\Booking.Service.pdb
+E:\C#\Booking\Booking.Service\obj\Debug\net8.0\Booking.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Booking\Booking.Service\obj\Debug\net8.0\Booking.Service.AssemblyInfoInputs.cache
+E:\C#\Booking\Booking.Service\obj\Debug\net8.0\Booking.Service.AssemblyInfo.cs
+E:\C#\Booking\Booking.Service\obj\Debug\net8.0\Booking.Service.csproj.CoreCompileInputs.cache
+E:\C#\Booking\Booking.Service\obj\Debug\net8.0\Booking.Service.dll
+E:\C#\Booking\Booking.Service\obj\Debug\net8.0\refint\Booking.Service.dll
+E:\C#\Booking\Booking.Service\obj\Debug\net8.0\Booking.Service.pdb
+E:\C#\Booking\Booking.Service\obj\Debug\net8.0\ref\Booking.Service.dll
